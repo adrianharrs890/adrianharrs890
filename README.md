@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome!
 
 ## Research Projects I've been apart of!
 
