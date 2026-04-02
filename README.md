@@ -10,6 +10,12 @@ The BRIDGE Randomized Clinical Trial](https://jamanetwork.com/journals/jamanetwo
 - [Determinants of Breast Cancer Screening Adherence During the COVID-19 Pandemic in a Cohort at Increased Inherited Cancer Risk in the United States](https://journals.sagepub.com/doi/full/10.1177/10732748241272727)
   
 - [Cumulative racism and substance use: results from the 2023 Racism and Public Health](https://doi.org/10.1080/10826084.2025.2537836)
+
+- [Social vulnerability and genetic service utilization among unaffected BRIDGE trial patients with inherited cancer susceptibility](https://link.springer.com/article/10.1186/s12885-025-13495-4)
+
+- [Higher levels of naloxone protection are associated with lower risk-taking: A longitudinal analysis of New York City residents using unprescribed opioids](https://www.sciencedirect.com/science/article/abs/pii/S0376871625004429)
+  
+- [Incomplete Family History and Meeting Algorithmic Criteria for Genetic Evaluation of Hereditary Cancer](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840618) 
 <!--
 **adrianharrs890/adrianharrs890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
