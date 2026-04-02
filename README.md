@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+## 📚 Research I’m Interested In
+
+- [Artificial Intelligence and Health Care Outcomes Study](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2823183)
+
+  
 <!--
 **adrianharrs890/adrianharrs890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
