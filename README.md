@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-## 📚 Research I’m Interested In
+## Research Projects I've been apart of!
 
-- [Artificial Intelligence and Health Care Outcomes Study](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2823183)
+- [Uptake of Cancer Genetic Services for Chatbot vs Standard-of-Care Delivery Models
+The BRIDGE Randomized Clinical Trial](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2823183)
 
   
 <!--
