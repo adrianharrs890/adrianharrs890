@@ -1,10 +1,11 @@
 ## Welcome!
 
 ## Some research projects I've been apart of!
--[Disparities by Race/Ethnicity and Sex in the Relationship Between Adverse Childhood Experiences (ACEs) and Suicidality](https://github.com/adrianharrisAIhub/JAACAP_ACEs)
 
 - [Uptake of Cancer Genetic Services for Chatbot vs Standard-of-Care Delivery Models
 The BRIDGE Randomized Clinical Trial](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2823183)
+
+- [Disparities by Race/Ethnicity and Sex in the Relationship Between Adverse Childhood Experiences (ACEs) and Suicidality](https://github.com/adrianharrisAIhub/JAACAP_ACEs)
 
 - [Education, Income, Wealth, and Discrimination in Black-White Allostatic Load Disparities](https://www.sciencedirect.com/science/article/abs/pii/S0749379724000783)
 
