@@ -15,7 +15,11 @@ The BRIDGE Randomized Clinical Trial](https://jamanetwork.com/journals/jamanetwo
 
 - [Higher levels of naloxone protection are associated with lower risk-taking: A longitudinal analysis of New York City residents using unprescribed opioids](https://www.sciencedirect.com/science/article/abs/pii/S0376871625004429)
   
-- [Incomplete Family History and Meeting Algorithmic Criteria for Genetic Evaluation of Hereditary Cancer](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840618) 
+- [Incomplete Family History and Meeting Algorithmic Criteria for Genetic Evaluation of Hereditary Cancer](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840618)
+  
+- [A tale of two cities: London and New York City during Covid-19](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0305330)
+  
+- [Bayesian kernel machine regression for social epidemiologic research](https://journals.lww.com/epidem/abstract/2024/11000/bayesian_kernel_machine_regression_for_social.1.aspx?context=featuredarticles&collectionid=10) 
 <!--
 **adrianharrs890/adrianharrs890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
